@@ -1,5 +1,5 @@
-# QuakeInfo
-**QuakeInfo** is an Android application for real-time Earthquake information around the world based on user's preference.
+# QuakeQuack
+**QuakeQuack** is an Android application for real-time Earthquake information around the world based on user's preference.
 This android application is implemented using RESTAPI, ViewRecycling, Intents, Fragments, SharedPreferences and more.
 This application support dark theme.
 
