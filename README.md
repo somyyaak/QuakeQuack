@@ -10,4 +10,4 @@ This application support dark theme.
 
 ## Screenshots
 
-[![Screenshot-1694462328.png](https://i.postimg.cc/jjC6GkHH/Screenshot-1694462328.png)](https://postimg.cc/HJD7MzPn) [![Screenshot-1621023692.png](https://i.postimg.cc/kXdwpW5S/Screenshot-1621023692.png)](https://postimg.cc/bd3QGDkY)     [![Whats-App-Image-2021-05-15-at-3-52-41-PM.jpg](https://i.postimg.cc/J4mcqmTc/Whats-App-Image-2021-05-15-at-3-52-41-PM.jpg)](https://postimg.cc/xqxzjrVc)    [![Screenshot-2021-05-15-16-17-43-27.jpg](https://i.postimg.cc/kgJsn9KX/Screenshot-2021-05-15-16-17-43-27.jpg)](https://postimg.cc/YhPY35dJ)
+[![Screenshot-1694462892.png](https://i.postimg.cc/fTw9GrZV/Screenshot-1694462892.png)](https://postimg.cc/BtVbDNj3)
