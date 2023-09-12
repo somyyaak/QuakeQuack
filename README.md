@@ -10,4 +10,4 @@ This application support dark theme.
 
 ## Screenshots
 
-[![Screenshot-1694462892.png](https://i.postimg.cc/fTw9GrZV/Screenshot-1694462892.png)](https://postimg.cc/BtVbDNj3)
+[![Screenshot-1694462892.png](https://i.postimg.cc/fTw9GrZV/Screenshot-1694462892.png)](https://postimg.cc/BtVbDNj3) [![Screenshot-1694462896.png](https://i.postimg.cc/k5t6NrNp/Screenshot-1694462896.png)](https://postimg.cc/FfNHmBBy)
